@@ -1,0 +1,1 @@
+- when users clickon a list item, the date that theevent happened on is written next to that item
